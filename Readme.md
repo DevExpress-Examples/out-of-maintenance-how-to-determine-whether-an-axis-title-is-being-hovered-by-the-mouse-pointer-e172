@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/HitTestingAxisTitle/Form1.cs) (VB: [Form1.vb](./VB/HitTestingAxisTitle/Form1.vb))
+* [Program.cs](./CS/HitTestingAxisTitle/Program.cs) (VB: [Program.vb](./VB/HitTestingAxisTitle/Program.vb))
+<!-- default file list end -->
 # How to determine whether an axis title is being hovered by the mouse pointer
 
 
